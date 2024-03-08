@@ -23,7 +23,7 @@ const Footer = () => {
             <Link
               href="https://twitter.com"
               className="group"
-              aria-label="TaxPal on Twitter"
+              aria-label="Twitter"
             >
               <svg
                 aria-hidden="true"
@@ -33,9 +33,9 @@ const Footer = () => {
               </svg>
             </Link>
             <Link
-              href="https://github.com"
+              href="https://github.com/SkrNeymar/next-store-show"
               className="group"
-              aria-label="TaxPal on GitHub"
+              aria-label="NextStore on GitHub"
             >
               <svg
                 aria-hidden="true"
