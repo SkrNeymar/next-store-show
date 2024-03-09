@@ -1,46 +1,34 @@
 <br/>
+<p align="center">
+  <h3 align="center">Next.js  E-Commerce + Dashboard & CMS</h3>
 
-<p  align="center">
-
-<h3  align="center">Next.js  E-Commerce + Dashboard & CMS</h3>
-
-<p  align="center">
-
-Next.js 13 App Router, React, Tailwind, shadecn, Prisma, MySQL
-
-<br/>
-
-<br/>
-
-<a  href="https://next-store-showcase.vercel.app/">View Demo</a>
-
-.
-
-<a  href="https://github.com/SkrNeymar/next-store-show/issues">Report Bug</a>
-
-.
-
-<a  href="https://github.com/SkrNeymar/next-store-show/issues">Request Feature</a>
-
-</p>
-
+  <p align="center">
+    Next.js 13 App Router, React, Tailwind, shadecn, Prisma, MySQL 
+    <br/>
+    <br/>
+    <a href="https://next-store-showcase.vercel.app/">View Demo</a>
+    .
+    <a href="https://github.com/SkrNeymar/next-store-show/issues">Report Bug</a>
+    .
+    <a href="https://github.com/SkrNeymar/next-store-show/issues">Request Feature</a>
+  </p>
 </p>
 
 ![License](https://github.com/SkrNeymar/next-store-show)
 
 [Dashboard Repo](https://github.com/SkrNeymar/next-store-admin)  
- [Store Front Repo](https://github.com/SkrNeymar/next-store-front)
+[Store Front Repo](https://github.com/SkrNeymar/next-store-front)
 
 ## About The Project
 
 Dashboard & CMS
 
-![Screen Shot]([https://res.cloudinary.com/djhhzsnda/image/upload/v1709966437/dashboard_lzcssc.png](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966437/dashboard_lzcssc.png)
-![Screen Shot][https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/api_mxy4pf.png](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/api_mxy4pf.png)
-![Screen Shot] [https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/variant_tnsbmm.png](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/variant_tnsbmm.png)
+![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966437/dashboard_lzcssc.png)
+![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/api_mxy4pf.png)
+![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/variant_tnsbmm.png)
 
 Store Front
-![Screen Shot][https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/storefront_wvzore.png](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/storefront_wvzore.png)
+![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/storefront_wvzore.png)
 
 ## Key Features
 
@@ -169,9 +157,9 @@ npm  i
 
 ```
 
-### Creat new store at dashboard, copy the NEXT_PUBLIC_API_URL at settings page
+### Create new store at dashboard, copy the NEXT_PUBLIC_API_URL at settings page
 
-![Screen Shot][https://res.cloudinary.com/djhhzsnda/image/upload/v1709967414/Snipaste_2024-03-09_16-56-42_qaezq6.png](https://res.cloudinary.com/djhhzsnda/image/upload/v1709967414/Snipaste_2024-03-09_16-56-42_qaezq6.png)
+![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709967414/Snipaste_2024-03-09_16-56-42_qaezq6.png)
 
 ### Setup .env file
 
