@@ -14,20 +14,20 @@
   </p>
 </p>
 
-![License](https://github.com/SkrNeymar/next-store-show)
+![License](https://img.shields.io/github/license/SkrNeymar/next-store-show)
 
 [Dashboard Repo](https://github.com/SkrNeymar/next-store-admin)  
 [Store Front Repo](https://github.com/SkrNeymar/next-store-front)
 
 ## About The Project
 
-Dashboard & CMS
+###Dashboard & CMS
 
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966437/dashboard_lzcssc.png)
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/api_mxy4pf.png)
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/variant_tnsbmm.png)
 
-Store Front
+###Store Front
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/storefront_wvzore.png)
 
 ## Key Features
