@@ -3,7 +3,7 @@
   <h3 align="center">Next.js  E-Commerce + Dashboard & CMS</h3>
 
   <p align="center">
-    Next.js 13 App Router, React, Tailwind, shadecn, Prisma, MySQL 
+    Next.js 13 App Router, React, Tailwind, Shadcn UI, Prisma, MySQL 
     <br/>
     <br/>
     <a href="https://next-store-showcase.vercel.app/">View Demo</a>
@@ -21,13 +21,13 @@
 
 ## About The Project
 
-###Dashboard & CMS
+Dashboard & CMS
 
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966437/dashboard_lzcssc.png)
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/api_mxy4pf.png)
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/variant_tnsbmm.png)
 
-###Store Front
+Store Front
 ![Screen Shot](https://res.cloudinary.com/djhhzsnda/image/upload/v1709966438/storefront_wvzore.png)
 
 ## Key Features
