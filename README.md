@@ -7,10 +7,6 @@
     <br/>
     <br/>
     <a href="https://next-store-showcase.vercel.app/">View Demo</a>
-    .
-    <a href="https://github.com/SkrNeymar/next-store-show/issues">Report Bug</a>
-    .
-    <a href="https://github.com/SkrNeymar/next-store-show/issues">Request Feature</a>
   </p>
 </p>
 
